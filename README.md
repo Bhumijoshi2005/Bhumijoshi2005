@@ -8,7 +8,7 @@ B.Tech CSE | Building strong fundamentals & real-world projects
 ---
 
 ## ✨ About Me
-- 🎓 B.Tech in Computer Science & Engineering (2022–Present)
+- 🎓 B.Tech in Computer Science & Engineering (2022-2026)
 - 💡 Interested in **Software Development, Data Analytics, and AI/ML**
 - 🧠 Strong focus on **problem-solving and core CS fundamentals**
 - 🌱 Currently improving **Python, and SQL**
