@@ -34,7 +34,7 @@ B.Tech CSE | Building strong fundamentals & real-world projects
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
+![Jupyter](https://img.shields.io/badge/Jupyter-blue?logo=jupyter)
 
 ---
 
