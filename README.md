@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bhumi Joshi</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhumijoshi2005&color=blue" />
+</p>
 
 <p align="center">
 Aspiring Software Engineer | Python | SQL | Problem Solving <br>
 B.Tech CSE | Building strong fundamentals & real-world projects
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=Bhumijoshi2005&color=blue)
 ---
 
 ## ✨ About Me
