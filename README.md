@@ -4,7 +4,7 @@
 Aspiring Software Engineer | Python | SQL | Problem Solving <br>
 B.Tech CSE | Building strong fundamentals & real-world projects
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Bhumijoshi2005&color=blue)
 ---
 
 ## ✨ About Me
@@ -37,49 +37,4 @@ B.Tech CSE | Building strong fundamentals & real-world projects
 ![Jupyter](https://img.shields.io/badge/Jupyter-blue?logo=jupyter)
 
 ---
-
-## 📂 Projects
-
-### 🔹 Fake News Detector & Generator
-**Tech:** Python, NLP, GAN, TensorFlow, Scikit-learn, Pandas  
-- Built fake news classification models using Logistic Regression  
-- Applied text preprocessing & feature engineering  
-- Implemented GAN-based generator to analyze misinformation patterns  
-- Evaluated models using precision, recall, and F1-score  
-
----
-
-### 🔹 Cab Booking System
-**Tech:** Python, Tkinter, SQLite  
-- GUI-based cab booking application  
-- Users can book, manage, and view trip history  
-- Stored user and booking data using a relational database  
-
----
-
-## 💼 Experience
-
-### IBM PBEL — Generative AI Intern (Remote)
-*July 2025 – Aug 2025*
-- Developed Logistic Regression models on datasets with **1000+ samples**
-- Achieved **85%+ accuracy** using feature engineering and tuning
-- Gained hands-on experience in model training, evaluation, and optimization
-
----
-
-### PhysicsWallah — SEO Trainee
-*Dec 2024 – May 2025*
-- Improved keyword rankings and visibility by **25%**
-- Performed competitor analysis on **15+ pages**
-- Identified content gaps boosting organic traffic potential by **20%+**
-
----
-
-## 📜 Certifications
-- Programming Essentials in Python — Cisco
-- Google Data Analytics — Coursera
-
----
-
-## 📊 GitHub Stats
 
