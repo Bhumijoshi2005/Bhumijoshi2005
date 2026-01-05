@@ -82,6 +82,6 @@ B.Tech CSE | Building strong fundamentals & real-world projects
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhumijoshi2005&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Bhumijoshi2005&show_icons=true" />
 ---
 
