@@ -83,7 +83,6 @@ B.Tech CSE | Building strong fundamentals & real-world projects
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhumijoshi2005&show_icons=true&theme=dark)
-
 ---
 
 ⭐ *Focused on consistency, clean code, and continuous learning.*
